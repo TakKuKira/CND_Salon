@@ -1,0 +1,18 @@
+{
+  "name": "imfi_cp",
+  "version": "1.0.0",
+  "description": "imfi_cp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rei",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  },
+  "dependencies": {
+    "@tailwindcss/line-clamp": "^0.4.0",
+    "flowbite": "^1.5.2"
+  }
+}
